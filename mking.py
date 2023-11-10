@@ -848,4 +848,4 @@ def removef():
         SSB(allkey)            
  
 
-Minhaj()
+minhaj()
