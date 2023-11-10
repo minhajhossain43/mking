@@ -102,7 +102,7 @@ def result(OKs,cps):
         input("Press enter to back SSB Menu ")
         exit()
 
-def sarfraz():   
+def minhaj():   
     os.system('clear')
     print(logo)
     print(f'[1] File Crack')
